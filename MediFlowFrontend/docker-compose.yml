@@ -1,0 +1,4 @@
+include:
+  - path:
+      - ../MediFlow/docker-compose.yml
+      - ../MediFlow/docker-compose.windows.yml
